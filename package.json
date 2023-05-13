@@ -26,9 +26,7 @@
     "staticFiles": {
         "staticPath": [
             "./robots.txt",
-            "./ads.txt",
-            "./sitemap.xml",
-            "./test.html"
+            "./sitemap.xml"
         ]
     }
 }
