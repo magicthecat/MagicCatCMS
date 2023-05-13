@@ -1,0 +1,1 @@
+export default {"href":"/architecture","html":"<h1>ARCHITECTURE</h1> <p>Some articles and other snippets to do with systems engineering, architecture & design thinking.</p>","displayShareLinks":false};
