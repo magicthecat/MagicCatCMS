@@ -3,7 +3,6 @@ const { PageRender } = require('./helpers/renderHelpers.js');
 const { paths } = require('./paths.js');
 const { CookieBanner } = require('./partials.js');
 
-
 const siteConfig = {
     brand: "MagicCat",
     tagLine: "A vanilla JS CMS framework",
@@ -12,6 +11,8 @@ const siteConfig = {
         console.log("I'm a script function")
     }
 }
+
+
 
 PageRender.handleRoutingPageRender(siteConfig.brand)
 Partials.createNavigation(paths, `${siteConfig.brand}: ${siteConfig.tagLine}`)

@@ -1,8 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const { content } = require('./content');
-const https = require('https');
-const { XMLParser } = require("fast-xml-parser");
 
 
 const generatePaths = (content) => {
