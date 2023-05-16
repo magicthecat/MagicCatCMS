@@ -3,6 +3,7 @@ content/
 importPaths.js
 paths.js
 rssData.js
+pageData.js
 sitemap.xml
 
 # Logs
