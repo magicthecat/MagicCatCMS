@@ -1,3 +1,10 @@
+#Folder and files generated at Build Time
+content/
+importPaths.js
+paths.js
+rssData.js
+sitemap.xml
+
 # Logs
 logs
 *.log
