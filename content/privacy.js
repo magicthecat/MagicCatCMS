@@ -1,1 +1,0 @@
-export default {"href":"/privacy","html":"    <h1>Privacy Policy</h1>\n   <p>PLACE PRIVACY POLICY HERE</p>","displayShareLinks":false};

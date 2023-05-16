@@ -1,1 +1,0 @@
-export default {"href":"/cookies","html":"<h1> Cookie Policy </h1> <p> PLACE COOKIE POLICY HERE </p>","displayShareLinks":false};
